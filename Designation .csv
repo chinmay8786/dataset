@@ -1,0 +1,21 @@
+Designation_Id,Designation,Department,,Salary
+1000,Director,-,"Insert into designation values('1000', 'Director','-');","1,20,00,000"
+1001,Dean,-,"Insert into designation values('1001', 'Dean','-');","80,00,000"
+1002,HOD,CS,"Insert into designation values('1002', 'HOD','CS');",7917444
+1003,Faculty,CS,"Insert into designation values('1003', 'Faculty','CS');",2953304
+1004,HOD,IT,"Insert into designation values('1004', 'HOD','IT');",3055611
+1005,Faculty,IT,"Insert into designation values('1005', 'Faculty','IT');",4732635
+1006,HOD,EXTC,"Insert into designation values('1006', 'HOD','EXTC');",7038845
+1007,Faculty,EXTC,"Insert into designation values('1007', 'Faculty','EXTC');",6137643
+1008,HOD,ELEX,"Insert into designation values('1008', 'HOD','ELEX');",4594061
+1009,Faculty,ELEX,"Insert into designation values('1009', 'Faculty','ELEX');",6116970
+1010,HOD,MECH,"Insert into designation values('1010', 'HOD','MECH');",4748420
+1011,Faculty,MECH,"Insert into designation values('1011', 'Faculty','MECH');",4598702
+1012,HOD,CHEM,"Insert into designation values('1012', 'HOD','CHEM');",5590873
+1013,Faculty,CHEM,"Insert into designation values('1013', 'Faculty','CHEM');",4379607
+1014,HOD,INTR,"Insert into designation values('1014', 'HOD','INTR');",6926121
+1015,Faculty,INTR,"Insert into designation values('1015', 'Faculty','INTR');",3020550
+1016,HOD,PROD,"Insert into designation values('1016', 'HOD','PROD');",3865235
+1017,Faculty,PROD,"Insert into designation values('1017', 'Faculty','PROD');",7246056
+1018,HOD,MET,"Insert into designation values('1018', 'HOD','MET');",2088868
+1019,Faculty,MET,"Insert into designation values('1019', 'Faculty','MET');",4132980
